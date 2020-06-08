@@ -3,6 +3,6 @@
 
 
 TryHackMe
-1. [c4ptur3th3fl4g]("THM/c4ptur3th3fl4g.md)
+1. [c4ptur3th3fl4g](https://github.com/fuzzbits/Blog-Notes/blob/master/THM/c4ptur3th3fl4g.md)
 
  
